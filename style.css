@@ -40,7 +40,7 @@ h1 {
   background: linear-gradient(45deg, #a4c8e2 0%, #6590b5 100%);
   background-size: 200% 200%;
   position: relative;
-  color: #000;
+  color: #000000;
   transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out,
     background-position 0.2s ease-in-out, border-color 0.2s ease-in-out;
 }
